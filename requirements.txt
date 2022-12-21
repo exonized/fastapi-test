@@ -61,3 +61,4 @@ watchfiles==0.18.1
 websockets==10.4
 Werkzeug==2.2.2
 WTForms==3.0.1
+numpy==1.22.4
